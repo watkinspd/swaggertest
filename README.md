@@ -10,4 +10,4 @@ Testing swagger editor
         makes sure you copy the exported file back into the local instance of the forked repo 
 4. commit the changes and modified files to your local repo
 5. push the commit to your forked repo at your github account
-6. ask people to review your work and decide if you want to make a pull request for it
+6. make a pull request for your changes to get people to review your work and decide if it will be added to the master spec 
