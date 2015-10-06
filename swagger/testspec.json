@@ -13,7 +13,7 @@
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         }
     },
-    "host": "tbd.tbd.tbd",
+    "host": "petstore.swagger.io",
     "basePath": "/alpha",
     "schemes": [
         "http"
